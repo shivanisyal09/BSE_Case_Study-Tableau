@@ -70,8 +70,8 @@ Provide an intuitive dashboard that enables investors, analysts or business lear
 
 ## 6) Screenshots  
 Below are sample views from the dashboard.  
-![Price Analysis]()  
-![Blue-Chip Companies Overview](https://github.com/shivanisyal09/BSE_Case_Study-Tableau/blob/main/BSE%20Case%20Study%20-%20Blue%20Chip%20Companies.png)  
+[Price Analysis](https://github.com/shivanisyal09/BSE_Case_Study-Tableau/blob/main/BSE%20Price%20Analysis.png)  
+[Blue-Chip Companies Overview](https://github.com/shivanisyal09/BSE_Case_Study-Tableau/blob/main/BSE%20Case%20Study%20-%20Blue%20Chip%20Companies.png)  
 
 *Click the images to zoom for detail.*
 
@@ -83,15 +83,4 @@ Below are sample views from the dashboard.
 - Build real-time or near-real-time data refresh via an API.  
 - Publish an embedded version for web/portal access (via Tableau Public/Server).  
 - Add user-driven annotation features (investor notes, event markers).
-
----
-
-## 8) Acknowledgements  
-- Data courtesy of the respective sources (see Data & Methodology above).  
-- Inspiration from the repositories by Shivani Syal such as *Global Superstore Analytics*, *Spotify-Track Analysis Dashboard*, and *Finance Executive Dashboard*.  
-- Thanks to the Tableau community for tips and tricks on interactivity and design.
-
----
-
-## 📝 License  
-This project is licensed under the MIT License — see the [LICENSE](./LICENSE) file for details.  
+ 
