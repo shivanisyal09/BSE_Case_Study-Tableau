@@ -70,8 +70,8 @@ Provide an intuitive dashboard that enables investors, analysts or business lear
 
 ## 6) Screenshots  
 Below are sample views from the dashboard.  
-![Price Analysis](./images/BSE_Price_Analysis.png)  
-![Blue-Chip Companies Overview](./images/BSE_Blue_Chip_Companies.png)  
+![Price Analysis]()  
+![Blue-Chip Companies Overview](https://github.com/shivanisyal09/BSE_Case_Study-Tableau/blob/main/BSE%20Case%20Study%20-%20Blue%20Chip%20Companies.png)  
 
 *Click the images to zoom for detail.*
 
